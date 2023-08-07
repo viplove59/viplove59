@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viplove59
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Power BI, mySQL & Pyton
-- 💞️ I’m looking to collaborate on Power Bi 7 SQL projects
+- 💞️ I’m looking to collaborate on Power BI 7 SQL projects
   
 
 <!---
